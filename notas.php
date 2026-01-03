@@ -16,7 +16,7 @@
 ------------------------------------------------------------------------------- -->
 
 
-<?php include __DIR__ . 'conexion.php'; ?>
+<?php include __DIR__ . '/includes/conexion.php'; ?>
 
 
 
