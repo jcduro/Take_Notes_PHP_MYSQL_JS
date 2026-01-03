@@ -60,6 +60,22 @@ El objetivo es ofrecer una interfaz ligera para:
 
 --- 
 
+## 💻 Estructura de la BD para la tabla `notasjc`
+
+```bash
+CREATE TABLE `notasjc` (
+  `cod_nota` int(11) NOT NULL,
+  `nota` text NOT NULL,
+  `prioridad` enum('baja','media','alta') DEFAULT 'media',
+  `categoria` varchar(50) DEFAULT 'general',
+  `etiquetas` varchar(255) DEFAULT NULL,
+  `completada` tinyint(1) DEFAULT 0,
+  `fecha_creacion` timestamp NULL DEFAULT current_timestamp(),
+  `fecha_actualizacion` timestamp NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+```
+---
+
 ## 🗂 Estructura del proyecto
 
 ```bash
