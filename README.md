@@ -97,9 +97,9 @@ Los ejemplos de plantillas README suelen incluir screenshots y pasos de uso bás
 
 ## 🚀 Instalación y uso
 
-1. Clonar o copiar el módulo dentro de `proyectos/dashjc/`.
+1. Clonar o copiar el módulo dentro de `notas/`.
 2. Configurar la conexión a la base de datos en `includes/conexion.php`.
-3. Importar el script SQL con la tabla de notas (ej. `database/notas.sql`).
+3. Importar el script SQL con la tabla de notas (ej. `notasjc.sql`).
 4. Enlazar la ruta `notas/notas.php` dentro del menú del dashboard.
 5. Acceder desde el navegador a la ruta configurada del dashboard.
 
