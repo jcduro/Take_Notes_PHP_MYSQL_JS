@@ -30,7 +30,7 @@
   <title>JcDuroDashBoard</title>
   
     <!-- Notas.css -->
-    <link rel="stylesheet" href="/notas.css">
+    <link rel="stylesheet" href="/css/notas.css">
 
   </head>
 
