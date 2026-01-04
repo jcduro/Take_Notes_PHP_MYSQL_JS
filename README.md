@@ -34,6 +34,8 @@ El objetivo es ofrecer una interfaz ligera para:
 ## 🚀 Demo
 [Take_Notes](https://jcduro.bexartideas.com/proyectos/dashjc/notas/notas.php)
 
+--- 
+
 ## 📊 Lenguajes y Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
