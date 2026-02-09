@@ -121,7 +121,18 @@ Los ejemplos de plantillas README suelen incluir screenshots y pasos de uso bás
 - Implementar sistema de permisos por rol.
 - Agregar exportación de notas (CSV / PDF).
 
+--- 
+
+## 📄 Licencia
+Libre, usalo como quieras
+<div align="center">
+  Hecho con 💙 y neones
+</div>
+
 ---
+
+## ⭐ Si te gustó este proyecto, no olvides dejar una estrella en GitHub!
+
 
 Proyecto desarrollado por **JcDuro DashBoard**.
 
